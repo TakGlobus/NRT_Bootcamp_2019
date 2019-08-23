@@ -1,0 +1,12 @@
+# omit directory below
+__pycache__
+*/__pycache__
+
+# omit file types/suffix below
+*/*.pyc
+*/*.txt
+*/*.log
+*/*.out
+*.*.out
+
+# other files 
