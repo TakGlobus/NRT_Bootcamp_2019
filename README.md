@@ -6,6 +6,12 @@
 
 ### Class Information
 
+### Date and Place
+- Date  
+ 9AM-12PM,  Sep. 23(Mon.) to 27(Fri.) , 2019	
+ - Place  
+ Searle 240a
+
 #### Class Schedule
 - Day 1 :  Introduction to Pytorch 1  
   - Installation and set up coding environment
@@ -25,6 +31,6 @@
 - Day 5 :   Presentation of class project
 
 ### Instructor
-Takuya Kurihana (Main coordinator in Session 4) `tkurihana at uchicago.edu`  
+Takuya Kurihana (Main coordinator / TA) `tkurihana at uchicago.edu`  
 Shinpei Nakamura (TA) `snakamura at uchicago.edu`  
 Zhisheng Xiao (TA)  `zxiao at uchicago.edu`
