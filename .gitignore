@@ -1,6 +1,7 @@
 # omit directory below
 __pycache__
 */__pycache__
+*/.ipynb_checkpoints
 
 # omit file types/suffix below
 */*.pyc
