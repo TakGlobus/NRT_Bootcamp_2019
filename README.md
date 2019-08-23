@@ -6,7 +6,7 @@
 
 ### Class Information
 
-### Date and Place
+#### Date and Place
 - Date  
  9AM-12PM,  Sep. 23(Mon.) to 27(Fri.) , 2019	
  - Place  
